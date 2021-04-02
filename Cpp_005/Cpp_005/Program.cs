@@ -29,6 +29,8 @@ namespace Cpp_005
             Console.WriteLine("Kopija2");
             // 11
             Console.WriteLine("Delete old br.");
+            // 12
+            Console.WriteLine("Go master branch");
         }
     }
 }
