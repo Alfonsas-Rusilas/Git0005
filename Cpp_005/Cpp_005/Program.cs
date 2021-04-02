@@ -20,13 +20,12 @@ namespace Cpp_005
             Console.WriteLine("6-a eilutė");
             // 7
             Console.WriteLine("7-as");
-<<<<<<< HEAD
             // 9
             Console.WriteLine("8-tos nebeliko");
-=======
+
             // 8
             Console.WriteLine("8-a EILUTĖ");
->>>>>>> 3b7af33902d6db8dc6c3681f4aebf38e190fb6bb
+
         }
     }
 }
