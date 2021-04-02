@@ -16,6 +16,8 @@ namespace Cpp_005
             Console.WriteLine("copy_parents_branch");
             // 5
             Console.WriteLine("Hello World 5");
+            // 6
+            Console.WriteLine("6-a eilutė");
         }
     }
 }
