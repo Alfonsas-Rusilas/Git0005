@@ -27,7 +27,8 @@ namespace Cpp_005
             Console.WriteLine("8-a EILUTĖ");
             // 10
             Console.WriteLine("Kopija2");
-
+            // 11
+            Console.WriteLine("Delete old br.");
         }
     }
 }
