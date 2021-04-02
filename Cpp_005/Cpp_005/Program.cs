@@ -25,6 +25,8 @@ namespace Cpp_005
 
             // 8
             Console.WriteLine("8-a EILUTĖ");
+            // 10
+            Console.WriteLine("Kopija2");
 
         }
     }
