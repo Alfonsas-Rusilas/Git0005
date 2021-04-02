@@ -20,6 +20,8 @@ namespace Cpp_005
             Console.WriteLine("6-a eilutė");
             // 7
             Console.WriteLine("7-as");
+            // 8
+            Console.WriteLine("8-a EILUTĖ");
         }
     }
 }
